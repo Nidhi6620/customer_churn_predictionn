@@ -251,12 +251,11 @@ All metrics are automatically logged in MLflow.
 
 ## 👨‍💻 Author
 
-**Yashavanth A**
+**Vidyanidhi G Shetty**
 
 B.E. Computer Science (Data Science)  
 Alva's Institute of Engineering and Technology
 
-GitHub: https://github.com/YashavanthA07
 
 ---
 
